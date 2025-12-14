@@ -3,7 +3,7 @@
 <!-- Hero Header with Gradient Background -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=YASIYA%20MD&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Next-Generation%20WhatsApp%20Bot&descAlignY=51&descSize=20" />
 
-<img src="https://drive.google.com/file/d/1QMPl_ttG34soNAadCydg579ytBkI8jTJ/view?usp=drivesdk" width="600" height="300" />
+<img src="https://drive.google.com/file/d/1QMPl_ttG34soNAadCydg579ytBkI8jTJ/view?usp=drivesdk"/>
 
 <!-- Animated Brand Identity -->
 <p align="center">
